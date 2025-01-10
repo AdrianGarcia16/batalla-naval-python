@@ -1,0 +1,1 @@
+Este repositorio contiene una colección de proyectos sencillos diseñados para aprender y practicar programación, con un enfoque especial en Python. Los proyectos están organizados por nivel de dificultad, desde conceptos básicos hasta desafíos intermedios, y son ideales para estudiantes, principiantes o cualquier persona que quiera mejorar sus habilidades en programación.
